@@ -7,5 +7,6 @@ package com.git;
 public class Gityy {
     public static void main(String[] args) {
         System.out.println("test wo shi t1");
+        System.out.println("2222222");
     }
 }
